@@ -1,2 +1,2 @@
-# git-cmds
+# git-command
 cmds
